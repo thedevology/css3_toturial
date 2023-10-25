@@ -1,0 +1,8 @@
+p.q{
+    border: 1px;
+    border-style: dashed;
+    border-color: red;
+    outline: 1px;
+    outline-style: solid;
+    outline-color: blue;
+}
