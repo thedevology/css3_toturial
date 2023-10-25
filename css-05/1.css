@@ -1,0 +1,25 @@
+/* h1{
+    font-family: 'Segoe UI';
+    font-size: 60px;
+} */
+a{
+    text-decoration: none;
+    color: black ;
+}
+.a1:hover{
+    color: red;
+    text-decoration: underline;
+}
+.a1:visited{
+    color: purple;
+}
+.a1:active{
+    color: blue;
+    text-decoration: none;
+}
+h1:hover{
+    color: red;
+}
+h1:active{
+    color:blue;
+}
