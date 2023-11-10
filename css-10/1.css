@@ -1,0 +1,67 @@
+/* p{
+    transform: rotate(150deg);
+} */
+/* p{
+    transform: scale(1,2);
+} */
+/* p:hover{
+    color: red;
+} */
+/* p{
+    transition: 10s;
+} */
+/* p{
+    animation-name: mover;
+    animation-duration: 10s;
+    animation-iteration-count: 10;
+}
+@keyframes mover{
+    0%{
+      color: red;
+      font-size: 20px;  
+    }
+    10%{
+        color: blue;
+        font-size: 30px;  
+    }
+    20%{
+        color: lightblue;
+        font-size: 40px; 
+    }
+    30%{
+        color: lightgreen;
+        font-size: 50px; 
+    }
+    40%{
+        color: darkorchid;
+        font-size: 40px; 
+    }
+    50%{
+        color: yellow;
+        font-size: 30px; 
+    }
+    60%{
+        color: lightsalmon;
+        font-size: 20px; 
+    }
+    70%{
+        color: darksalmon;
+        font-size: 30px; 
+    }
+    80%{
+        color: rgb(103, 245, 127);
+        font-size: 40px; 
+    }
+    90%{
+        color: rgb(255, 159, 215);
+        font-size: 50px; 
+    }
+    100%{
+        color: rgb(0, 255, 234);
+        font-size: 50px; 
+    }
+}
+*/
+p{
+    -webkit-box-reflect: below;
+}
