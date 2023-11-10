@@ -1,0 +1,19 @@
+/* h1{
+    float: right;
+} */
+/* div > p{
+    color: red;
+} */
+/* div ~ h1{
+    color: red;
+} */
+/* div + p{
+    color: red;
+} */
+/* h1::selection{
+    color: white;
+    background-color: black;
+} */
+/* h1::first-letter{
+    text-transform: uppercase;
+} */
