@@ -1,0 +1,25 @@
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 150% 1%;
+    transform: translate(150px,50px);
+}
+/* :root{
+    --t1: green;
+}
+body{
+    background-color: var(--t1);
+} */
+/* p{
+    column-count: 2;
+    column-gap: 150px;
+    column-rule-style: dotted;
+    column-rule-color: red;
+}
+@media(min-width:800px){
+   img{
+    width: 800px;
+    height: 200px;
+   } 
+} */
