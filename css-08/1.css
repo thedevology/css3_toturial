@@ -1,0 +1,10 @@
+/* p{
+    opacity:0.5;
+} */
+p[title="this is a text"]{
+    color:red;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: black;
+    background: conic-gradient(blue 20%,red 20%,yellow 60%);
+}
