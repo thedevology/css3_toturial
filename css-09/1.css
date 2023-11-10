@@ -1,0 +1,18 @@
+div{
+    box-shadow: 10px 20px 10px red;
+    width: 200px;
+}
+.p1{
+    border: 1px solid black;
+}
+b{
+    writing-mode: vertical-rl;
+}
+@font-face{
+    font-family: m1;
+    src: url("font/1.TTF");
+    font-style: normal;
+}
+h2{
+    font-family: m1;
+}
